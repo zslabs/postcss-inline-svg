@@ -1,5 +1,5 @@
 {
-  "name": "postcss-inline-svg",
+  "name": "postcss-inline-svg-multipath",
   "version": "3.0.0",
   "description": "PostCSS plugin to reference an SVG file and control its attributes with CSS syntax",
   "keywords": [
@@ -46,13 +46,13 @@
       ]
     }
   },
-  "author": "Bogdan Chadkin <trysound@yandex.ru>",
+  "author": "Zach Schnackel <info@zslabs.com>",
   "license": "MIT",
-  "repository": "TrySound/postcss-inline-svg",
+  "repository": "zslabs/postcss-inline-svg",
   "bugs": {
-    "url": "https://github.com/TrySound/postcss-inline-svg/issues"
+    "url": "https://github.com/zslabs/postcss-inline-svg/issues"
   },
-  "homepage": "https://github.com/TrySound/postcss-inline-svg",
+  "homepage": "https://github.com/zslabs/postcss-inline-svg",
   "dependencies": {
     "css-select": "^1.2.0",
     "dom-serializer": "^0.1.0",
