@@ -1,5 +1,5 @@
-import { dirname, resolve } from 'path';
-import { existsSync } from 'fs';
+import { dirname, resolve } from "path";
+import { existsSync } from "fs";
 
 export default function resolveId(file, url, opts) {
     let paths = [];
